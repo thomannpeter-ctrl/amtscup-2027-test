@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: amtscup-2027-prototyp
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
