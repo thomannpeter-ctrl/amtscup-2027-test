@@ -1,12 +1,14 @@
-AMTSCUP KONOLFINGEN 2027 – V4
-Gruppenstamm + Anmeldungen 2027
+AMTSCUP KONOLFINGEN 2027 – V5
 
 Neu:
-- Gruppenchef, E-Mail, Telefon, Natel
-- Gruppenstamm getrennt von Anmeldungen 2027
-- Gruppe für 2027 anmelden / abmelden
-- separate Anmeldeliste pro Disziplin
-- Auslosung akzeptiert nur angemeldete Gruppen
-- bestehende PDF- und QR-Funktion bleibt erhalten
+- Kontaktdaten direkt aus der hochgeladenen Gruppenliste übernommen.
+- 106 Gruppen im Gruppenstamm.
+- Alte A/P/J-Nummern sind nur Referenz und nicht dauerhaft.
+- Anmeldung 2027 separat.
+- Nach Anmeldeschluss automatische Sortierung Verein -> Gruppenname.
+- Automatische Jahresnummern A1..., P1..., J1...
+- Neue Gruppen können ohne alte Nummer angelegt werden.
+- Auslosung verwendet nur angemeldete und neu nummerierte Gruppen.
+- PDF und individueller QR-Code bleiben erhalten.
 
-Testhinweis: data.json ist auf Render noch keine dauerhafte Produktionsdatenbank.
+Testsystem: Render-data.json ist noch keine dauerhafte Produktionsdatenbank.
