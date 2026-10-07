@@ -1,12 +1,13 @@
-Amtscup Konolfingen 2027 – V6
+Amtscup Konolfingen 2027 – V7
 
-Neu gegenüber V5:
-- QR-Code öffnet den konkreten Standblatt-Kontext.
-- Mobilseite zum Fotografieren/Hochladen des ausgefüllten Standblatts.
-- KI-Auslesung über OPENAI_API_KEY auf Render.
-- Feld-A-Kontrollmaske mit 5 Schützen.
-- Zuschlag aus Sportgerät-Nr. 1–6 wird automatisch berechnet.
-- Geschriebene und berechnete Totals werden verglichen.
-- Speichern erst nach menschlicher Kontrolle; bei Total-Abweichung blockiert.
+Neu gegenüber V6:
+- Amtscup-Wappen oben links auf dem Standblatt
+- Feld A: Sportgerät 7 = FG, Zuschlag 0
+- klarer Hinweis: nur Sportgerät-Nr. 1–7 eintragen
+- zusätzliche Spalte Zuschlag
+- unten: Zwischentotal, Zuschlag, Gruppentotal
+- KI/Kontrollmaske berücksichtigt geschriebenen und berechneten Zuschlag
+- kurze Anleitung direkt auf dem Standblatt
+- Sponsor-/Werbebereich unten (aktuell Waffenhaus Schneider als Text, später austauschbar)
 
-Wichtig: data.json ist weiterhin nur Testspeicher. Für Produktion Datenbank + Anmeldung/Schutz der Kontaktdaten verwenden.
+Hinweis: weiterhin Testsystem. data.json ist keine dauerhafte Datenbank und echte Kontaktdaten gehören vor Produktion hinter einen geschützten Adminbereich.
