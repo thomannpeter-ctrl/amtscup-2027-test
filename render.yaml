@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: amtscup-2027-prototyp
+    name: amtscup-2027-test
     runtime: node
     plan: free
     buildCommand: npm install

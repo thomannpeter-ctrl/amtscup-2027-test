@@ -1,16 +1,22 @@
-AMTSCUP KONOLFINGEN 2027 – PROTOTYP
+AMTSCUP 2027 – V2
 
-Ziel:
-Foto -> KI -> Kontrolle -> Speichern -> Live-Rangliste auf derselben Website.
+Diese Version wurde nach Analyse des bestehenden Feld-A-Ranglistenprogramms gebaut.
+
+Neu:
+- KI-Erfassung + Kontrolle
+- Disziplin als feste Auswahl
+- Gender M/W als Pflicht-Auswahl (KI darf es nicht raten)
+- Sportgerät als feste Auswahl
+- Feld A verlangt genau 5 vollständige Schützen
+- Resultat, Zuschlag und Total
+- Gesamtrangliste
+- Rangliste Weiblich
+- automatische Ranglisten je Sportgerät
+- automatische Rangliste Sportgerät + Weiblich
+- Gruppenrangliste
+- Admin-Ansicht mit Löschen von Testdatensätzen
+- keine CSV im normalen Ablauf
 
 WICHTIG:
-- data.json startet leer.
-- Test zunächst nur Feld A.
-- Bestehende definitive Ranglistenlogik ist noch NICHT vollständig eingebaut.
-- Dieser Prototyp zeigt bewusst zuerst die direkte Datenkette ohne CSV.
-- OPENAI_API_KEY bleibt als Render-Umgebungsvariable.
-- Für einen echten Dauerbetrieb braucht die Datenhaltung später eine persistente Datenbank; Render-Dateispeicher kann bei Deployments verloren gehen.
-
-UPLOAD AUF GITHUB:
-Am einfachsten die Dateien dieses ZIPs in ein NEUES Test-Repository hochladen und als eigenen Render Web Service deployen.
-So bleibt die heute funktionierende Seite unangetastet.
+Die Daten liegen in dieser Testversion noch in data.json. Auf Render ist das nicht dauerhaft sicher.
+Vor dem Echtbetrieb muss die gleiche Logik an eine persistente Datenbank angeschlossen werden.
