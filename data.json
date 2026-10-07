@@ -1,1 +1,642 @@
-{"year":2027,"submissions":[]}
+{
+  "year": 2027,
+  "groups": [
+    {
+      "discipline": "Feld A",
+      "code": "A001",
+      "club": "Aareschützen Kiesen Oppligen",
+      "name": "Bahnhöfli"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A002",
+      "club": "Aareschützen Kiesen Oppligen",
+      "name": "Pintli"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A003",
+      "club": "Allmendingen FS",
+      "name": "Chlepfcheibe"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A004",
+      "club": "Allmendingen FS",
+      "name": "Warts APP"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A005",
+      "club": "Arni FS",
+      "name": "Agrist"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A006",
+      "club": "Arni FS",
+      "name": "Gunners"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A007",
+      "club": "Arni FS",
+      "name": "Rotiholz"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A008",
+      "club": "Biglen FS",
+      "name": "Power"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A009",
+      "club": "Biglen FS",
+      "name": "Wirbelwind"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A010",
+      "club": "Bowil MS",
+      "name": "A- Team"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A011",
+      "club": "Bowil MS",
+      "name": "Dürrbach"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A012",
+      "club": "Bowil MS",
+      "name": "Merlin"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A013",
+      "club": "Falkenfluh-Schützen",
+      "name": "Alt u. Jung"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A014",
+      "club": "Falkenfluh-Schützen",
+      "name": "Falkenfluh"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A015",
+      "club": "Falkenfluh-Schützen",
+      "name": "Feuerstein"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A016",
+      "club": "Falkenfluh-Schützen",
+      "name": "Wagenheber"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A017",
+      "club": "Gysenstein FS",
+      "name": "Amboss"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A018",
+      "club": "Gysenstein FS",
+      "name": "Ballenbühl"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A019",
+      "club": "Gysenstein FS",
+      "name": "Hobel"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A020",
+      "club": "Gysenstein FS",
+      "name": "Ringkorn"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A021",
+      "club": "Häutligen FS",
+      "name": "Buchholz"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A022",
+      "club": "Häutligen FS",
+      "name": "Eggacher"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A023",
+      "club": "Häutligen FS",
+      "name": "Gantrisch"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A024",
+      "club": "Häutligen FS",
+      "name": "Wolfmatt"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A025",
+      "club": "Konolfingen SG",
+      "name": "Chläbi"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A026",
+      "club": "Konolfingen SG",
+      "name": "Die Unbekannte"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A027",
+      "club": "Konolfingen SG",
+      "name": "Galgenhoger"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A028",
+      "club": "Konolfingen SG",
+      "name": "Hubel"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A029",
+      "club": "Konolfingen SG",
+      "name": "Pänguins"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A030",
+      "club": "Kratzmattschützen",
+      "name": "Beginners"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A031",
+      "club": "Kratzmattschützen",
+      "name": "Chäsrauft"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A032",
+      "club": "Kratzmattschützen",
+      "name": "Elenor"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A033",
+      "club": "Kratzmattschützen",
+      "name": "Schützenbrüder"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A034",
+      "club": "Linden FS",
+      "name": "Alfa Romeo"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A035",
+      "club": "Linden FS",
+      "name": "Innerbirrmoos"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A036",
+      "club": "Linden FS",
+      "name": "Kurzenberg"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A037",
+      "club": "Linden FS",
+      "name": "Latärndli 08"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A038",
+      "club": "Oberdiessbach SG",
+      "name": "90er Bande"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A039",
+      "club": "Oberdiessbach SG",
+      "name": "Ganztal"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A040",
+      "club": "Oberdiessbach SG",
+      "name": "Madagaskar"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A041",
+      "club": "Oberdiessbach SG",
+      "name": "Mouchenwasser"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A042",
+      "club": "Oberthal MS",
+      "name": "Blasenfluh"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A043",
+      "club": "Oberthal MS",
+      "name": "Eintracht"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A044",
+      "club": "Oberthal MS",
+      "name": "Guggiwäudli"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A045",
+      "club": "Oberthal MS",
+      "name": "Hasechlupf"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A046",
+      "club": "Oberthal MS",
+      "name": "Kapfwald"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A047",
+      "club": "Oberthal MS",
+      "name": "TEAM 2014"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A048",
+      "club": "Oberthal MS",
+      "name": "TEAM 86"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A049",
+      "club": "Richigen FS",
+      "name": "Benchen"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A050",
+      "club": "Richigen FS",
+      "name": "TEAM CRAFT"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A051",
+      "club": "Schützen Grosshöchstetten",
+      "name": "Blitz"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A052",
+      "club": "Schützen Grosshöchstetten",
+      "name": "Stiftung Waffentest"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A053",
+      "club": "Schützen Grosshöchstetten",
+      "name": "Waldrand"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A054",
+      "club": "Sportschützen Furth",
+      "name": "Kobra"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A055",
+      "club": "Sportschützen Furth",
+      "name": "Pflümli"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A056",
+      "club": "Sportschützen Furth",
+      "name": "Speher"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A057",
+      "club": "Sportschützen Furth",
+      "name": "Zorro"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A058",
+      "club": "Sportschützen Münsingen",
+      "name": "Zentrum"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A059",
+      "club": "Tägertschi FS",
+      "name": "Höckeler"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A060",
+      "club": "Tägertschi FS",
+      "name": "Tell"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A061",
+      "club": "Trimstein Eichi FS",
+      "name": "Jägermeister"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A062",
+      "club": "Trimstein Eichi FS",
+      "name": "Rambo"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A063",
+      "club": "Trimstein Eichi FS",
+      "name": "Sius"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A064",
+      "club": "Trimstein Eichi FS",
+      "name": "Tele- Tell"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A065",
+      "club": "Wichtrach Schützen",
+      "name": "Talbächli"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A066",
+      "club": "Wichtrach Schützen",
+      "name": "Luchs"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A067",
+      "club": "Wichtrach Schützen",
+      "name": "Top- Gun"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A068",
+      "club": "Worber Sportschützen",
+      "name": "Granate"
+    },
+    {
+      "discipline": "Feld A",
+      "code": "A069",
+      "club": "Worber Sportschützen",
+      "name": "Querschleger"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P001",
+      "club": "Biglen PS",
+      "name": "Shooters"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P002",
+      "club": "Konolfingen PS",
+      "name": "Ballenbühl"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P003",
+      "club": "Konolfingen PS",
+      "name": "Grube"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P004",
+      "club": "Konolfingen PS",
+      "name": "Inseli"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P005",
+      "club": "Konolfingen PS",
+      "name": "U20"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P006",
+      "club": "Konolfingen PS",
+      "name": "Locher"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P007",
+      "club": "Linden PS",
+      "name": "9mm"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P008",
+      "club": "Linden PS",
+      "name": "GmbH"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P009",
+      "club": "Linden PS",
+      "name": "Knaller"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P010",
+      "club": "Linden PS",
+      "name": "Pistoleros"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P011",
+      "club": "Linden PS",
+      "name": "Visier"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P012",
+      "club": "Münsingen PS",
+      "name": "Aare"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P013",
+      "club": "Münsingen PS",
+      "name": "Bahnhof"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P014",
+      "club": "Steffisburg PS",
+      "name": "Moos"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P015",
+      "club": "Steffisburg PS",
+      "name": "Schnittweier"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P016",
+      "club": "Wichtrach-Tahlgut PS",
+      "name": "Hecht"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P017",
+      "club": "Zäziwil- Gr'h'st. PS",
+      "name": "Buhlenberg"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P018",
+      "club": "Zäziwil- Gr'h'st. PS",
+      "name": "Die Daltons"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P019",
+      "club": "Zäziwil- Gr'h'st. PS",
+      "name": "Eyweid"
+    },
+    {
+      "discipline": "Pistole",
+      "code": "P020",
+      "club": "Zäziwil- Gr'h'st. PS",
+      "name": "Krone"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J001",
+      "club": "Bowil MS",
+      "name": "Groggenmoos"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J002",
+      "club": "Bowil MS",
+      "name": "Linde"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J003",
+      "club": "Falkenfluh-Schützen",
+      "name": "Hunters"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J004",
+      "club": "Konolfingen SG",
+      "name": "Hobbits"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J005",
+      "club": "Konolfingen SG",
+      "name": "Rookies"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J006",
+      "club": "Konolfingen SG",
+      "name": "Fadegrad"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J007",
+      "club": "Linden FS",
+      "name": "Blitzschütze"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J008",
+      "club": "Oberdiessbach SG",
+      "name": "Bierfront"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J009",
+      "club": "Oberdiessbach SG",
+      "name": "Aeschlen Kanadier"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J010",
+      "club": "Oberthal MS",
+      "name": "Bösi Buebe"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J011",
+      "club": "Oberthal MS",
+      "name": "Sabrina"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J012",
+      "club": "Schützen Grosshöchstetten",
+      "name": "JS Grosshöchstetten"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J013",
+      "club": "Trimstein Eichi FS",
+      "name": "Tagediebe"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J014",
+      "club": "Trimstein Eichi FS",
+      "name": "Artemis"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J015",
+      "club": "Trimstein Eichi FS",
+      "name": "Ares"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J016",
+      "club": "Trimstein Eichi FS",
+      "name": "Apollo"
+    },
+    {
+      "discipline": "Jungschützen",
+      "code": "J017",
+      "club": "Worb VSG",
+      "name": "Löchli Schützen 1"
+    }
+  ],
+  "draws": []
+}

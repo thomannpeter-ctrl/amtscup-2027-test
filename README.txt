@@ -1,22 +1,17 @@
-AMTSCUP 2027 – V2
+AMTSCUP KONOLFINGEN 2027 – V3 AUSLOSUNG
 
-Diese Version wurde nach Analyse des bestehenden Feld-A-Ranglistenprogramms gebaut.
+Basis:
+- Die Gruppenlisten Feld A, Pistole und Jungschützen wurden aus Amtscup_2025.xlsm (Blätter 2026) übernommen.
+- Insgesamt 106 Gruppen als Startdaten.
 
-Neu:
-- KI-Erfassung + Kontrolle
-- Disziplin als feste Auswahl
-- Gender M/W als Pflicht-Auswahl (KI darf es nicht raten)
-- Sportgerät als feste Auswahl
-- Feld A verlangt genau 5 vollständige Schützen
-- Resultat, Zuschlag und Total
-- Gesamtrangliste
-- Rangliste Weiblich
-- automatische Ranglisten je Sportgerät
-- automatische Rangliste Sportgerät + Weiblich
-- Gruppenrangliste
-- Admin-Ansicht mit Löschen von Testdatensätzen
-- keine CSV im normalen Ablauf
+Ablauf:
+1. Gruppen anmelden / pflegen
+2. Physisches Los ziehen
+3. Gruppennummer als Heim bzw. Gast eingeben
+4. System zeigt Verein + Gruppenname
+5. Paarung bestätigen
+6. Standblätter als PDF automatisch erzeugen
+7. Jedes PDF erhält einen individuellen QR-Code
 
-WICHTIG:
-Die Daten liegen in dieser Testversion noch in data.json. Auf Render ist das nicht dauerhaft sicher.
-Vor dem Echtbetrieb muss die gleiche Logik an eine persistente Datenbank angeschlossen werden.
+Dies ist ein Testsystem. data.json ist auf Render noch keine dauerhafte Produktionsdatenbank.
+Die Resultaterfassung/KI wird im nächsten Schritt an die QR-Standblätter angeschlossen.
