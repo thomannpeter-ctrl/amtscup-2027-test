@@ -1,14 +1,12 @@
-AMTSCUP KONOLFINGEN 2027 – V5
+Amtscup Konolfingen 2027 – V6
 
-Neu:
-- Kontaktdaten direkt aus der hochgeladenen Gruppenliste übernommen.
-- 106 Gruppen im Gruppenstamm.
-- Alte A/P/J-Nummern sind nur Referenz und nicht dauerhaft.
-- Anmeldung 2027 separat.
-- Nach Anmeldeschluss automatische Sortierung Verein -> Gruppenname.
-- Automatische Jahresnummern A1..., P1..., J1...
-- Neue Gruppen können ohne alte Nummer angelegt werden.
-- Auslosung verwendet nur angemeldete und neu nummerierte Gruppen.
-- PDF und individueller QR-Code bleiben erhalten.
+Neu gegenüber V5:
+- QR-Code öffnet den konkreten Standblatt-Kontext.
+- Mobilseite zum Fotografieren/Hochladen des ausgefüllten Standblatts.
+- KI-Auslesung über OPENAI_API_KEY auf Render.
+- Feld-A-Kontrollmaske mit 5 Schützen.
+- Zuschlag aus Sportgerät-Nr. 1–6 wird automatisch berechnet.
+- Geschriebene und berechnete Totals werden verglichen.
+- Speichern erst nach menschlicher Kontrolle; bei Total-Abweichung blockiert.
 
-Testsystem: Render-data.json ist noch keine dauerhafte Produktionsdatenbank.
+Wichtig: data.json ist weiterhin nur Testspeicher. Für Produktion Datenbank + Anmeldung/Schutz der Kontaktdaten verwenden.
