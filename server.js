@@ -3,7 +3,8 @@ const app=express(), DB=path.join(__dirname,"data.json");
 app.use(express.json({limit:"2mb"})); app.use(express.static(path.join(__dirname,"public")));
 const read=()=>JSON.parse(fs.readFileSync(DB,"utf8")); const save=x=>fs.writeFileSync(DB,JSON.stringify(x,null,2));
 app.get("/api/state",(q,r)=>r.json(read()));
-app.post("/api/groups",(q,r)=>{let d=read(),g=q.body;if(!g.code||!g.club||!g.name||!g.discipline)return r.status(400).json({error:"Angaben unvollständig"});d.groups=d.groups.filter(x=>!(x.discipline===g.discipline&&x.code===g.code));d.groups.push(g);save(d);r.json({ok:true})});
+app.post("/api/groups",(q,r)=>{let d=read(),g=q.body;if(!g.code||!g.club||!g.name||!g.discipline)return r.status(400).json({error:"Angaben unvollständig"});let old=d.groups.find(x=>x.discipline===g.discipline&&x.code===g.code)||{};g={...old,...g,registered2027:Boolean(g.registered2027)};d.groups=d.groups.filter(x=>!(x.discipline===g.discipline&&x.code===g.code));d.groups.push(g);save(d);r.json({ok:true})});
+app.post("/api/groups/:discipline/:code/register",(q,r)=>{let d=read(),g=d.groups.find(x=>x.discipline===q.params.discipline&&x.code===q.params.code);if(!g)return r.status(404).json({error:"Gruppe nicht gefunden"});g.registered2027=Boolean(q.body.registered);save(d);r.json({ok:true})});
 app.post("/api/draws",(q,r)=>{let d=read(),x=q.body;if(!x.discipline||!x.round||!x.pairNo||!x.home||!x.guest)return r.status(400).json({error:"Paarung unvollständig"});if(x.home===x.guest)return r.status(400).json({error:"Heim und Gast sind gleich."});let key=[x.discipline,x.round,x.pairNo].join("|");d.draws=d.draws.filter(a=>[a.discipline,a.round,a.pairNo].join("|")!==key);x.id=Date.now();d.draws.push(x);save(d);r.json({ok:true})});
 app.delete("/api/draws/:id",(q,r)=>{let d=read();d.draws=d.draws.filter(x=>String(x.id)!==String(q.params.id));save(d);r.json({ok:true})});
 app.get("/api/standblatt/:discipline/:round/:pair/:side.pdf",async(q,r)=>{

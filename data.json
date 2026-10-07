@@ -5,637 +5,1167 @@
       "discipline": "Feld A",
       "code": "A001",
       "club": "Aareschützen Kiesen Oppligen",
-      "name": "Bahnhöfli"
+      "name": "Bahnhöfli",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A002",
       "club": "Aareschützen Kiesen Oppligen",
-      "name": "Pintli"
+      "name": "Pintli",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A003",
       "club": "Allmendingen FS",
-      "name": "Chlepfcheibe"
+      "name": "Chlepfcheibe",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A004",
       "club": "Allmendingen FS",
-      "name": "Warts APP"
+      "name": "Warts APP",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A005",
       "club": "Arni FS",
-      "name": "Agrist"
+      "name": "Agrist",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A006",
       "club": "Arni FS",
-      "name": "Gunners"
+      "name": "Gunners",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A007",
       "club": "Arni FS",
-      "name": "Rotiholz"
+      "name": "Rotiholz",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A008",
       "club": "Biglen FS",
-      "name": "Power"
+      "name": "Power",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A009",
       "club": "Biglen FS",
-      "name": "Wirbelwind"
+      "name": "Wirbelwind",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A010",
       "club": "Bowil MS",
-      "name": "A- Team"
+      "name": "A- Team",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A011",
       "club": "Bowil MS",
-      "name": "Dürrbach"
+      "name": "Dürrbach",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A012",
       "club": "Bowil MS",
-      "name": "Merlin"
+      "name": "Merlin",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A013",
       "club": "Falkenfluh-Schützen",
-      "name": "Alt u. Jung"
+      "name": "Alt u. Jung",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A014",
       "club": "Falkenfluh-Schützen",
-      "name": "Falkenfluh"
+      "name": "Falkenfluh",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A015",
       "club": "Falkenfluh-Schützen",
-      "name": "Feuerstein"
+      "name": "Feuerstein",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A016",
       "club": "Falkenfluh-Schützen",
-      "name": "Wagenheber"
+      "name": "Wagenheber",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A017",
       "club": "Gysenstein FS",
-      "name": "Amboss"
+      "name": "Amboss",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A018",
       "club": "Gysenstein FS",
-      "name": "Ballenbühl"
+      "name": "Ballenbühl",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A019",
       "club": "Gysenstein FS",
-      "name": "Hobel"
+      "name": "Hobel",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A020",
       "club": "Gysenstein FS",
-      "name": "Ringkorn"
+      "name": "Ringkorn",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A021",
       "club": "Häutligen FS",
-      "name": "Buchholz"
+      "name": "Buchholz",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A022",
       "club": "Häutligen FS",
-      "name": "Eggacher"
+      "name": "Eggacher",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A023",
       "club": "Häutligen FS",
-      "name": "Gantrisch"
+      "name": "Gantrisch",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A024",
       "club": "Häutligen FS",
-      "name": "Wolfmatt"
+      "name": "Wolfmatt",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A025",
       "club": "Konolfingen SG",
-      "name": "Chläbi"
+      "name": "Chläbi",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A026",
       "club": "Konolfingen SG",
-      "name": "Die Unbekannte"
+      "name": "Die Unbekannte",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A027",
       "club": "Konolfingen SG",
-      "name": "Galgenhoger"
+      "name": "Galgenhoger",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A028",
       "club": "Konolfingen SG",
-      "name": "Hubel"
+      "name": "Hubel",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A029",
       "club": "Konolfingen SG",
-      "name": "Pänguins"
+      "name": "Pänguins",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A030",
       "club": "Kratzmattschützen",
-      "name": "Beginners"
+      "name": "Beginners",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A031",
       "club": "Kratzmattschützen",
-      "name": "Chäsrauft"
+      "name": "Chäsrauft",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A032",
       "club": "Kratzmattschützen",
-      "name": "Elenor"
+      "name": "Elenor",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A033",
       "club": "Kratzmattschützen",
-      "name": "Schützenbrüder"
+      "name": "Schützenbrüder",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A034",
       "club": "Linden FS",
-      "name": "Alfa Romeo"
+      "name": "Alfa Romeo",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A035",
       "club": "Linden FS",
-      "name": "Innerbirrmoos"
+      "name": "Innerbirrmoos",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A036",
       "club": "Linden FS",
-      "name": "Kurzenberg"
+      "name": "Kurzenberg",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A037",
       "club": "Linden FS",
-      "name": "Latärndli 08"
+      "name": "Latärndli 08",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A038",
       "club": "Oberdiessbach SG",
-      "name": "90er Bande"
+      "name": "90er Bande",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A039",
       "club": "Oberdiessbach SG",
-      "name": "Ganztal"
+      "name": "Ganztal",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A040",
       "club": "Oberdiessbach SG",
-      "name": "Madagaskar"
+      "name": "Madagaskar",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A041",
       "club": "Oberdiessbach SG",
-      "name": "Mouchenwasser"
+      "name": "Mouchenwasser",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A042",
       "club": "Oberthal MS",
-      "name": "Blasenfluh"
+      "name": "Blasenfluh",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A043",
       "club": "Oberthal MS",
-      "name": "Eintracht"
+      "name": "Eintracht",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A044",
       "club": "Oberthal MS",
-      "name": "Guggiwäudli"
+      "name": "Guggiwäudli",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A045",
       "club": "Oberthal MS",
-      "name": "Hasechlupf"
+      "name": "Hasechlupf",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A046",
       "club": "Oberthal MS",
-      "name": "Kapfwald"
+      "name": "Kapfwald",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A047",
       "club": "Oberthal MS",
-      "name": "TEAM 2014"
+      "name": "TEAM 2014",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A048",
       "club": "Oberthal MS",
-      "name": "TEAM 86"
+      "name": "TEAM 86",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A049",
       "club": "Richigen FS",
-      "name": "Benchen"
+      "name": "Benchen",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A050",
       "club": "Richigen FS",
-      "name": "TEAM CRAFT"
+      "name": "TEAM CRAFT",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A051",
       "club": "Schützen Grosshöchstetten",
-      "name": "Blitz"
+      "name": "Blitz",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A052",
       "club": "Schützen Grosshöchstetten",
-      "name": "Stiftung Waffentest"
+      "name": "Stiftung Waffentest",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A053",
       "club": "Schützen Grosshöchstetten",
-      "name": "Waldrand"
+      "name": "Waldrand",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A054",
       "club": "Sportschützen Furth",
-      "name": "Kobra"
+      "name": "Kobra",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A055",
       "club": "Sportschützen Furth",
-      "name": "Pflümli"
+      "name": "Pflümli",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A056",
       "club": "Sportschützen Furth",
-      "name": "Speher"
+      "name": "Speher",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A057",
       "club": "Sportschützen Furth",
-      "name": "Zorro"
+      "name": "Zorro",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A058",
       "club": "Sportschützen Münsingen",
-      "name": "Zentrum"
+      "name": "Zentrum",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A059",
       "club": "Tägertschi FS",
-      "name": "Höckeler"
+      "name": "Höckeler",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A060",
       "club": "Tägertschi FS",
-      "name": "Tell"
+      "name": "Tell",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A061",
       "club": "Trimstein Eichi FS",
-      "name": "Jägermeister"
+      "name": "Jägermeister",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A062",
       "club": "Trimstein Eichi FS",
-      "name": "Rambo"
+      "name": "Rambo",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A063",
       "club": "Trimstein Eichi FS",
-      "name": "Sius"
+      "name": "Sius",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A064",
       "club": "Trimstein Eichi FS",
-      "name": "Tele- Tell"
+      "name": "Tele- Tell",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A065",
       "club": "Wichtrach Schützen",
-      "name": "Talbächli"
+      "name": "Talbächli",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A066",
       "club": "Wichtrach Schützen",
-      "name": "Luchs"
+      "name": "Luchs",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A067",
       "club": "Wichtrach Schützen",
-      "name": "Top- Gun"
+      "name": "Top- Gun",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A068",
       "club": "Worber Sportschützen",
-      "name": "Granate"
+      "name": "Granate",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Feld A",
       "code": "A069",
       "club": "Worber Sportschützen",
-      "name": "Querschleger"
+      "name": "Querschleger",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P001",
       "club": "Biglen PS",
-      "name": "Shooters"
+      "name": "Shooters",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P002",
       "club": "Konolfingen PS",
-      "name": "Ballenbühl"
+      "name": "Ballenbühl",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P003",
       "club": "Konolfingen PS",
-      "name": "Grube"
+      "name": "Grube",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P004",
       "club": "Konolfingen PS",
-      "name": "Inseli"
+      "name": "Inseli",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P005",
       "club": "Konolfingen PS",
-      "name": "U20"
+      "name": "U20",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P006",
       "club": "Konolfingen PS",
-      "name": "Locher"
+      "name": "Locher",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P007",
       "club": "Linden PS",
-      "name": "9mm"
+      "name": "9mm",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P008",
       "club": "Linden PS",
-      "name": "GmbH"
+      "name": "GmbH",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P009",
       "club": "Linden PS",
-      "name": "Knaller"
+      "name": "Knaller",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P010",
       "club": "Linden PS",
-      "name": "Pistoleros"
+      "name": "Pistoleros",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P011",
       "club": "Linden PS",
-      "name": "Visier"
+      "name": "Visier",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P012",
       "club": "Münsingen PS",
-      "name": "Aare"
+      "name": "Aare",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P013",
       "club": "Münsingen PS",
-      "name": "Bahnhof"
+      "name": "Bahnhof",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P014",
       "club": "Steffisburg PS",
-      "name": "Moos"
+      "name": "Moos",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P015",
       "club": "Steffisburg PS",
-      "name": "Schnittweier"
+      "name": "Schnittweier",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P016",
       "club": "Wichtrach-Tahlgut PS",
-      "name": "Hecht"
+      "name": "Hecht",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P017",
       "club": "Zäziwil- Gr'h'st. PS",
-      "name": "Buhlenberg"
+      "name": "Buhlenberg",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P018",
       "club": "Zäziwil- Gr'h'st. PS",
-      "name": "Die Daltons"
+      "name": "Die Daltons",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P019",
       "club": "Zäziwil- Gr'h'st. PS",
-      "name": "Eyweid"
+      "name": "Eyweid",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Pistole",
       "code": "P020",
       "club": "Zäziwil- Gr'h'st. PS",
-      "name": "Krone"
+      "name": "Krone",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J001",
       "club": "Bowil MS",
-      "name": "Groggenmoos"
+      "name": "Groggenmoos",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J002",
       "club": "Bowil MS",
-      "name": "Linde"
+      "name": "Linde",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J003",
       "club": "Falkenfluh-Schützen",
-      "name": "Hunters"
+      "name": "Hunters",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J004",
       "club": "Konolfingen SG",
-      "name": "Hobbits"
+      "name": "Hobbits",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J005",
       "club": "Konolfingen SG",
-      "name": "Rookies"
+      "name": "Rookies",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J006",
       "club": "Konolfingen SG",
-      "name": "Fadegrad"
+      "name": "Fadegrad",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J007",
       "club": "Linden FS",
-      "name": "Blitzschütze"
+      "name": "Blitzschütze",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J008",
       "club": "Oberdiessbach SG",
-      "name": "Bierfront"
+      "name": "Bierfront",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J009",
       "club": "Oberdiessbach SG",
-      "name": "Aeschlen Kanadier"
+      "name": "Aeschlen Kanadier",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J010",
       "club": "Oberthal MS",
-      "name": "Bösi Buebe"
+      "name": "Bösi Buebe",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J011",
       "club": "Oberthal MS",
-      "name": "Sabrina"
+      "name": "Sabrina",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J012",
       "club": "Schützen Grosshöchstetten",
-      "name": "JS Grosshöchstetten"
+      "name": "JS Grosshöchstetten",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J013",
       "club": "Trimstein Eichi FS",
-      "name": "Tagediebe"
+      "name": "Tagediebe",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J014",
       "club": "Trimstein Eichi FS",
-      "name": "Artemis"
+      "name": "Artemis",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J015",
       "club": "Trimstein Eichi FS",
-      "name": "Ares"
+      "name": "Ares",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J016",
       "club": "Trimstein Eichi FS",
-      "name": "Apollo"
+      "name": "Apollo",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     },
     {
       "discipline": "Jungschützen",
       "code": "J017",
       "club": "Worb VSG",
-      "name": "Löchli Schützen 1"
+      "name": "Löchli Schützen 1",
+      "leader": "",
+      "email": "",
+      "phone": "",
+      "mobile": "",
+      "registered2027": false
     }
   ],
   "draws": []
